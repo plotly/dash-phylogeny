@@ -1,3 +1,7 @@
+## Migrated - not actively updated
+This app has been migrated to [dash-sample-apps](https://github.com/plotly/dash-sample-apps/tree/master/apps/dash-phylogeny).
+
+
 # Dash: Virus Phylogenetic Tree Application
 
 This is a demo of the Dash interactive Python framework developed by [Plotly](https://plot.ly/).
@@ -8,7 +12,7 @@ To learn more check out our [documentation](https://plot.ly/dash).
 
 ## Introduction
 
-👉 [Explore the app on Heroku](https://dash-phylogeny.herokuapp.com/).
+👉 [Explore the app on Dash Gallery](https://dash-gallery.plotly.host/dash-phylogeny/).
 
 ### [Technique/field associated with the instrument]
 
@@ -23,7 +27,7 @@ This Dash app was inspired by the excellent [Nextstrain project](https://nextstr
 The command needed to run the app:
 python3.6 app.py
 
-In the [online app](https://dash-phylogeny.herokuapp.com/), you can select a virus, and the evolution of the virus as a phylogeny tree will display with a map and time series of the virus's global spread.
+In the [online app](https://dash-gallery.plotly.host/dash-phylogeny/), you can select a virus, and the evolution of the virus as a phylogeny tree will display with a map and time series of the virus's global spread.
 
 ## Resources
 
